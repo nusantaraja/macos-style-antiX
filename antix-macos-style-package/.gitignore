@@ -1,0 +1,6 @@
+*.log
+*.zip
+*.iso
+__pycache__
+*.tmp
+EOL
