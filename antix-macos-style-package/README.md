@@ -26,4 +26,4 @@ Paket lengkap untuk mengubah tampilan **AntiX Linux** menjadi mirip **macOS Cata
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/macos-style-antix.git 
+   git clone https://github.com/nusantaraja/macos-style-antiX.git 
