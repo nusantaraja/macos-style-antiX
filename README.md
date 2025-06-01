@@ -1,6 +1,6 @@
 # 🍎 macOS-Style Toolkit for AntiX
 
-[![License](https://github.com/nusantaraja/macos-style-antiX/blob/main/LICENSE)](LICENSE.txt) 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Last Updated](https://img.shields.io/github/last-commit/nusantaraja/macos-style-antiX)](https://github.com/nusantaraja/macos-style-antiX/commits/main) 
 [![Repo Size](https://img.shields.io/github/repo-size/nusantaraja/macos-style-antiX)]() 
 
