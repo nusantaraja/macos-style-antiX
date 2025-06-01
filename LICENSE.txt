@@ -1,4 +1,3 @@
-cat > LICENSE.txt <<EOL
 MIT License
 
 Copyright (c) 2025 Nusantaraja
