@@ -1,8 +1,8 @@
 # 🍎 macOS-Style Toolkit for AntiX
 
-![GitHub](https://img.shields.io/github/license/username/macos-style-antix?color=blue)
-![GitHub repo size](https://img.shields.io/github/repo-size/username/macos-style-antix)
-![Last commit](https://img.shields.io/github/last-commit/username/macos-style-antix)
+[![License](https://img.shields.io/github/license/nusantaraja/macos-style-antiX)](LICENSE.txt) 
+[![Last Updated](https://img.shields.io/github/last-commit/nusantaraja/macos-style-antiX)](https://github.com/nusantaraja/macos-style-antiX/commits/main) 
+[![Repo Size](https://img.shields.io/github/repo-size/nusantaraja/macos-style-antiX)]() 
 
 Paket lengkap untuk mengubah tampilan **AntiX Linux** menjadi mirip **macOS Catalina / Big Sur**, termasuk:
 
